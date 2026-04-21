@@ -6,3 +6,7 @@
 - team: MettEagel
   name: Lukas Liessmann
   ssh_key: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCK1OH6KV1PoWJb5nAYeL6HM5yec0q2jTSxsngoDf5JFhAtFlW+YsHHZSeYZAlgKH4RMp+Ov8tizyXiM8c0mAFa36qfjk4YZjBf45Z7C2E6g4xZAJ6JiY/Ku6tIp2j+pzMEsOlD4Z/thPQ3gZRXqjptzCxWstgRwLp+kEYQ9LUxZVFBz69+JZ4a3f6DJSeehn5aJbjqBeX2n8mDdqCJT3ochurK+ejS5siNFCO62ZyCNVPzxannV0arOZz3som1goxxz1WMFhiHooHBnTlbIqYJnuCDO5uLjsDwjfxogVHCUjKLQ8Q8DNy3h7VOUBYsIvGOGzKnHqcMPLjWmLJI+Oct rsa-key-20260421
+
+- team: MelonenPower
+  name: "TuerkisMelon"
+  ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICdVTJeYyPosgEYbEh45UzfmB9hVKX4sQ73RoKWN6Xz9"
