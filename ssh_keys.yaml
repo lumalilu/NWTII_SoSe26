@@ -2,3 +2,6 @@
 # - team: X
 #   name: "<your name>"
 #   ssh_key: "<your public ssh key>"
+- team: MelonenPower
+  name: "TuerkisMelon"
+  ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICdVTJeYyPosgEYbEh45UzfmB9hVKX4sQ73RoKWN6Xz9"
